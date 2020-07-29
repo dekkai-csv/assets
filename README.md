@@ -1,5 +1,9 @@
-<div align="center" style="background-color:rgb(11,72,110)">
+<div align="center">
 
-![dekkai](svg/dekkai_logo_light_no_back.svg)
+![dekkai](svg/dekkai_logo_dark.svg)
 
 </div>
+
+### @dekkai/assets  
+
+This repository contains design assets for the dekkai-csv parser project and its website.
