@@ -1,6 +1,6 @@
 <div align="center">
 
-![dekkai](svg/dekkai_logo_dark.svg)
+![dekkai](svg/dekkai_banner_dark.svg)
 
 </div>
 
