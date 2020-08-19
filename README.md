@@ -6,4 +6,4 @@
 
 ### @dekkai/assets  
 
-This repository contains design assets for the dekkai-csv parser project and its website.
+This repository contains design assets for the dekkai-data project and its website.
